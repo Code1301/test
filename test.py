@@ -6,3 +6,8 @@ if changes == "yes":
     print 'keep going'
 else:
     print 'then change it'
+
+
+print 'I\'m in a new branch'
+print 'Another change'
+
