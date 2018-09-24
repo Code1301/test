@@ -5,3 +5,6 @@ if changes == "yes":
     print 'more changes'
 else:
     print 'then change it'
+
+
+print 'I\'m in a new branch'
